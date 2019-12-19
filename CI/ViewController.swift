@@ -10,9 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+  //----------------------------------------------------------------------------
+  // MARK: - Properties
+  //----------------------------------------------------------------------------
+
+  //----------------------------------------------------------------------------
+  // MARK: - View life cycle
+  //----------------------------------------------------------------------------
+
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view.
   }
 
 
