@@ -29,8 +29,8 @@ class CITests: XCTestCase {
     XCTAssert(true, "Should not fail.")
   }
 
-  func testFailure() {
-    XCTAssert(false, "Is supposed to fail.")
-  }
+//  func testFailure() {
+//    XCTAssert(false, "Is supposed to fail.")
+//  }
 
 }
